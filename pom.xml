@@ -5,7 +5,7 @@
     <artifactId>proj3</artifactId>
     <version>1.0-RAMA</version>
     <packaging>pom</packaging>
-    <name>Project Build</name>
+    <name>Build Docker</name>
 
     <modules>
         <module>project</module>
