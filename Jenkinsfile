@@ -4,7 +4,7 @@ pipeline {
             registry = "1212122345/dockerjenkinsdemo"
             registryCredential = 'dockerhub'
             dockerImage = ''
-		          PROJECT_ID = 'warm-lane-278714'
+		          PROJECT_ID = 'massive-weft-284917'
  		          CLUSTER_NAME = 'test'
  		          LOCATION = 'northamerica-northeast1-a'
  		          CREDENTIALS_ID = 'gke'
