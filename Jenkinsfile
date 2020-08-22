@@ -7,7 +7,7 @@ pipeline {
 		          PROJECT_ID = 'warm-lane-278714'
  		          CLUSTER_NAME = 'test'
  		          LOCATION = 'northamerica-northeast1-a'
- 		          CREDENTIALS_ID = 'k8-demo'
+ 		          CREDENTIALS_ID = 'gke'
         }
 		
 	    stages {	
