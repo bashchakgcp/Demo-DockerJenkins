@@ -2,7 +2,7 @@ pipeline {
         agent any
         environment {
             registry = "1212122345/dockerjenkinsdemo"
-            registryCredential = 'docker-cred'
+            registryCredential = 'dockerhub'
             dockerImage = ''
 		          PROJECT_ID = 'warm-lane-278714'
  		          CLUSTER_NAME = 'test'
