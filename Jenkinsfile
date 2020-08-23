@@ -5,7 +5,7 @@ pipeline {
             registryCredential = 'dockerhub'
             dockerImage = ''
 		          PROJECT_ID = 'massive-weft-284917'
- 		          CLUSTER_NAME = 'test'
+ 		          CLUSTER_NAME = 'kubedemo'
  		          LOCATION = 'northamerica-northeast1-a'
  		          CREDENTIALS_ID = 'gke'
         }
