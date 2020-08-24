@@ -7,7 +7,7 @@ pipeline {
 		          PROJECT_ID = 'massive-weft-284917'
  		          CLUSTER_NAME = 'kubedemo'
  		          LOCATION = 'northamerica-northeast1-a'
- 		          CREDENTIALS_ID = 'gke'
+ 		          CREDENTIALS_ID = 'sprint6gke'
         }
 		
 	    stages {	
